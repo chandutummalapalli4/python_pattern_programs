@@ -1,0 +1,5 @@
+Num=int(input("Enter  a vlaue:"))
+for i in range(1,Num+1):
+    for j in range(1,Num+1):
+        print(j,end=" ")
+    print()    
